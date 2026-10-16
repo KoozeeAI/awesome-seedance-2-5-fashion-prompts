@@ -1,8 +1,6 @@
 # Seedance 2.5 Fashion Prompts
 
-Curated Seedance 2.5 fashion prompts for apparel campaigns, product photography, e-commerce creatives, AI fashion models, advertising, and commercial fashion imagery.
-
-This repository is an automatically generated exact-model view of the canonical [KOOZEE AI Fashion Prompt Library](https://github.com/KoozeeAI/ai-fashion-prompts). The canonical repository remains the source of truth.
+Explore curated Seedance 2.5 fashion video prompts for apparel advertising, product commercials, fashion campaign videos, product showcases, model motion, and e-commerce video creatives. Review practical examples for planning social ads, cinematic product stories, and fashion lookbook motion.
 
 ## Featured Seedance 2.5 Fashion Prompts
 
@@ -10,42 +8,53 @@ This repository is an automatically generated exact-model view of the canonical 
 - [Pink Prada Handbag Tokyo Campaign Film](./cases/pink-prada-handbag-tokyo-campaign-film.md)
 - [Retro Running Sneaker Ad Storyboard](./cases/retro-running-sneaker-ad-storyboard.md)
 
-## Browse by Fashion Use Case
+## Browse Seedance 2.5 Prompts by Fashion Use Case
 
-[Browse the fashion use case index →](./indexes/by-fashion-use-case.md)
+- [Browse by fashion use case →](./indexes/by-fashion-use-case.md)
+- [Browse by content category →](./indexes/by-content-category.md)
 
-## Browse by Product
+## Browse Seedance 2.5 Prompts by Product
 
 [Browse the product index →](./indexes/by-product.md)
 
 ## Browse All Seedance 2.5 Fashion Prompts
 
-[Browse all prompt cases →](./cases/)
+[Browse all Seedance 2.5 prompt cases →](./cases/)
 
-## What Each Case Includes
+## Seedance 2.5 Prompt Ideas for Fashion & E-commerce
 
-Each case includes the exact original prompt, its raw model metadata, media type, fashion use case, content and product categories, creator attribution, and source URL.
+Use these prompt cases as references for:
 
-## Seedance 2.5 Prompt Examples for Fashion
+- Fashion campaign films and cinematic apparel content
+- Product commercials for footwear, handbags, and accessories
+- Fashion lookbook motion and AI model movement
+- E-commerce product showcase videos
+- Social video ads and short-form campaign creatives
 
-The collection currently contains 3 exact Seedance 2.5 prompt cases. Browse the case files above for complete, source-preserved examples.
+## What Each Prompt Case Includes
+
+- The complete original prompt
+- Exact raw model and media metadata
+- Fashion use case, content category, and product category
+- Original creator attribution and source URL
 
 ## Create with KOOZEE
 
-Copy a prompt from any case and use it in the matching KOOZEE image-generation workflow.
+Discover a fashion prompt, review the original example and source context, copy the prompt, then continue creating with KOOZEE. Generator links will be added when the production routes are confirmed.
 
 ## Explore More AI Fashion Prompts
 
-Explore the complete [KOOZEE AI Fashion Prompt Library](https://github.com/KoozeeAI/ai-fashion-prompts), including other exact model versions.
+- [GPT Image 2 Fashion Prompts](https://github.com/KoozeeAI/awesome-gpt-image-2-fashion-prompts)
+- [GPT Image 2.5 Fashion Prompts](https://github.com/KoozeeAI/awesome-gpt-image-2-5-fashion-prompts)
+- [Seedance 2.5 Fashion Prompts](https://github.com/KoozeeAI/awesome-seedance-2-5-fashion-prompts)
+- [KOOZEE AI Fashion Prompt Library](https://github.com/KoozeeAI/ai-fashion-prompts)
 
 ## About KOOZEE
 
-KOOZEE curates production-oriented AI fashion prompts and workflows for creators, brands, and visual teams.
+KOOZEE is an AI fashion image and video generation platform built for apparel e-commerce.
+
+It helps apparel sellers turn a single clothing image into product photos, AI fashion model images, listing creatives, campaign visuals, and marketing videos in one workflow.
 
 ## Source & Attribution
 
-Every case preserves the original prompt, creator attribution, source URL, and raw model value from the canonical library. Generated from `KoozeeAI/ai-fashion-prompts`; edit the canonical source instead.
-
-### Additional Index
-
-[Browse by content category →](./indexes/by-content-category.md)
+This model-specific repository is synchronized from the canonical [KOOZEE AI Fashion Prompt Library](https://github.com/KoozeeAI/ai-fashion-prompts). Original prompts, creator attribution, source URLs, and raw model metadata are preserved.
