@@ -25,6 +25,9 @@ Glossy luxury lighting, realistic Tokyo atmosphere, premium fashion photography,
 
 - Model: Seedance 2.5
 - Media Type: Video
+- Preview Image URL: https://pbs.twimg.com/amplify_video_thumb/2103067340229513216/img/dGkN2uOtk0bRfBx6.jpg
+- Video URL: https://x.com/ImaStudio_ai/status/2103067682299937160
+- Media Asset Source: https://x.com/ImaStudio_ai/status/2103067682299937160
 - Fashion Use Case: Luxury handbag product campaign with strict bag color, logo, and hardware consistency across editorial street scenes
 - Content Category: Cinematic Campaign
 - Product Category: Handbag

@@ -24,6 +24,9 @@ Style: ultra-realistic commercial footwear advertisement, premium product photog
 
 - Model: seedance 2.5
 - Media Type: Video
+- Preview Image URL: https://pbs.twimg.com/amplify_video_thumb/2108159526822457345/img/WA8ExkUuPXvJ4S86.jpg
+- Video URL: https://x.com/DuaFatimaAi/status/2108159598507237656
+- Media Asset Source: https://x.com/DuaFatimaAi/status/2108159598507237656
 - Fashion Use Case: Cinematic footwear product advertisement with design and branding fidelity
 - Content Category: Product Commercial
 - Product Category: Shoes

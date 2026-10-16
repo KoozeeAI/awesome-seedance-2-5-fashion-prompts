@@ -49,6 +49,9 @@ Negative prompt: distorted anatomy, extra fingers, duplicate limbs, inconsistent
 
 - Model: seedance 2.5
 - Media Type: Video
+- Preview Image URL: https://pbs.twimg.com/amplify_video_thumb/2107967821468889088/img/c9D-DRu6npLW9Oac.jpg
+- Video URL: https://x.com/DuaFatimaAi/status/2107967946991792435
+- Media Asset Source: https://x.com/DuaFatimaAi/status/2107967946991792435
 - Fashion Use Case: Multi-panel sports sneaker advertising storyboard with hero product shots, macro footwear detail, and cross-panel shoe consistency
 - Content Category: Product Commercial
 - Product Category: Shoes
