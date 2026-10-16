@@ -1,0 +1,41 @@
+{
+  "case_count": 3,
+  "cases": [
+    {
+      "content_category": "Product Commercial",
+      "fashion_use_case": "Cinematic footwear product advertisement with design and branding fidelity",
+      "filename": "orthopedic-slides-footwear-product-commercial.md",
+      "media_type": "Video",
+      "normalized_model_key": "seedance-2-5",
+      "product_category": "Shoes",
+      "raw_model": "seedance 2.5",
+      "source_path": "cases/orthopedic-slides-footwear-product-commercial.md",
+      "title": "Orthopedic Slides Footwear Product Commercial"
+    },
+    {
+      "content_category": "Cinematic Campaign",
+      "fashion_use_case": "Luxury handbag product campaign with strict bag color, logo, and hardware consistency across editorial street scenes",
+      "filename": "pink-prada-handbag-tokyo-campaign-film.md",
+      "media_type": "Video",
+      "normalized_model_key": "seedance-2-5",
+      "product_category": "Handbag",
+      "raw_model": "Seedance 2.5",
+      "source_path": "cases/pink-prada-handbag-tokyo-campaign-film.md",
+      "title": "Pink Prada Handbag Tokyo Campaign Film"
+    },
+    {
+      "content_category": "Product Commercial",
+      "fashion_use_case": "Multi-panel sports sneaker advertising storyboard with hero product shots, macro footwear detail, and cross-panel shoe consistency",
+      "filename": "retro-running-sneaker-ad-storyboard.md",
+      "media_type": "Video",
+      "normalized_model_key": "seedance-2-5",
+      "product_category": "Shoes",
+      "raw_model": "seedance 2.5",
+      "source_path": "cases/retro-running-sneaker-ad-storyboard.md",
+      "title": "Retro Running Sneaker Ad Storyboard"
+    }
+  ],
+  "generated_from": "KoozeeAI/ai-fashion-prompts",
+  "normalized_model_key": "seedance-2-5",
+  "repository": "KoozeeAI/awesome-seedance-2-5-fashion-prompts"
+}
