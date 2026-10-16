@@ -4,21 +4,38 @@ Explore curated Seedance 2.5 fashion video prompts for apparel advertising, prod
 
 Browse visual examples here, then open each Case page for the complete, unchanged Original Prompt.
 
-**[Explore the web gallery →](https://pre.koozee.ai/tools/fashion-ai-prompt-library?qa=7f123b14)**
+**[Explore Seedance 2.5 fashion prompts on KOOZEE →](https://koozee.ai/prompts)**
 
 ## 📚 Table of Contents
 
+- [Quick Start](#-quick-start)
 - [What is Seedance 2.5?](#-what-is-seedance-25)
 - [Statistics](#-statistics)
 - [Fashion Prompt Examples](#-fashion-prompt-examples)
-- [Browse by Category](#-browse-by-category)
+- [Browse Fashion Prompts by Category](#-browse-fashion-prompts-by-category)
 - [Create with KOOZEE](#-create-with-koozee)
 - [More Prompt Libraries](#-more-prompt-libraries)
 - [Source & Attribution](#-source--attribution)
 
+## ⚡ Quick Start
+
+1. Browse fashion video prompt examples by product or campaign type.
+2. Open a Case to copy the complete original prompt.
+3. Adapt the product, scene, camera movement, duration, or model action.
+4. Use the prompt with Seedance 2.5 or continue creating with KOOZEE.
+
 ## 🧠 What is Seedance 2.5?
 
 Seedance 2.5 is an AI video generation model. For fashion teams, it is relevant to campaign motion, apparel and accessory showcases, product commercials, model movement, and short-form fashion video concepts.
+
+### Common Fashion Use Cases
+
+- Fashion campaign films
+- Product commercials
+- Apparel and accessory showcases
+- Fashion lookbook motion
+- AI model movement
+- Short-form social advertising
 
 ## 📊 Statistics
 
@@ -165,7 +182,9 @@ Cinematic low-angle full-body shot of the male model walking confidently through
 - **Creator:** Dua Fatima (@DuaFatimaAi)
 - **Source:** [View original source](https://x.com/DuaFatimaAi/status/2107967946991792435)
 
-## 🧩 Browse by Category
+## 🧩 Browse Fashion Prompts by Category
+
+Explore Seedance 2.5 fashion video prompts for campaign films, product commercials, footwear and handbag advertising, lookbook motion, model movement, and e-commerce video creatives.
 
 - [Browse by fashion use case →](./indexes/by-fashion-use-case.md)
 - [Browse by content category →](./indexes/by-content-category.md)
