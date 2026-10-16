@@ -4,11 +4,30 @@ Explore curated Seedance 2.5 fashion video prompts for apparel advertising, prod
 
 Browse visual examples here, then open each Case page for the complete, unchanged Original Prompt.
 
-## 🧭 Explore the Collection
+**[Explore the web gallery →](https://pre.koozee.ai/tools/fashion-ai-prompt-library?qa=7f123b14)**
 
-- [Open the web gallery →](https://pre.koozee.ai/tools/fashion-ai-prompt-library?qa=7f123b14)
-- **3 curated prompts** for Seedance 2.5
-- Seedance 2.5 is an AI video generation model. For fashion teams, it is relevant to campaign motion, apparel and accessory showcases, product commercials, model movement, and short-form fashion video concepts.
+## 📚 Table of Contents
+
+- [What is Seedance 2.5?](#-what-is-seedance-25)
+- [Statistics](#-statistics)
+- [Fashion Prompt Examples](#-fashion-prompt-examples)
+- [Browse by Category](#-browse-by-category)
+- [Create with KOOZEE](#-create-with-koozee)
+- [More Prompt Libraries](#-more-prompt-libraries)
+- [Source & Attribution](#-source--attribution)
+
+## 🧠 What is Seedance 2.5?
+
+Seedance 2.5 is an AI video generation model. For fashion teams, it is relevant to campaign motion, apparel and accessory showcases, product commercials, model movement, and short-form fashion video concepts.
+
+## 📊 Statistics
+
+| Metric | Count |
+| --- | ---: |
+| Total Prompts | 3 |
+| Video Prompts | 3 |
+| Product Categories | 2 |
+| Fashion Use Cases | 3 |
 
 ## ✨ Fashion Prompt Examples
 
@@ -17,14 +36,10 @@ Browse visual examples here, then open each Case page for the complete, unchange
 #### ▶️ Video Preview
 
 <div align="center">
-
-<a href="https://x.com/DuaFatimaAi/status/2108159598507237656">
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108159526822457345/img/WA8ExkUuPXvJ4S86.jpg" width="700" alt="Orthopedic Slides Footwear Product Commercial">
-</a>
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108159526822457345/img/WA8ExkUuPXvJ4S86.jpg" width="460" alt="Orthopedic Slides Footwear Product Commercial">
+</div>
 
 **[Watch original video →](https://x.com/DuaFatimaAi/status/2108159598507237656)**
-
-</div>
 
 #### 📝 About This Case
 
@@ -66,14 +81,10 @@ Scene 3 (6–8s): Extreme close-up of the textured olive-green strap and black c
 #### ▶️ Video Preview
 
 <div align="center">
-
-<a href="https://x.com/ImaStudio_ai/status/2103067682299937160">
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103067340229513216/img/dGkN2uOtk0bRfBx6.jpg" width="700" alt="Pink Prada Handbag Tokyo Campaign Film">
-</a>
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103067340229513216/img/dGkN2uOtk0bRfBx6.jpg" width="460" alt="Pink Prada Handbag Tokyo Campaign Film">
+</div>
 
 **[Watch original video →](https://x.com/ImaStudio_ai/status/2103067682299937160)**
-
-</div>
 
 #### 📝 About This Case
 
@@ -113,14 +124,10 @@ Use ONE consistent young female model throughout. Keep the same face, hairstyle,
 #### ▶️ Video Preview
 
 <div align="center">
-
-<a href="https://x.com/DuaFatimaAi/status/2107967946991792435">
-<img src="https://pbs.twimg.com/amplify_video_thumb/2107967821468889088/img/c9D-DRu6npLW9Oac.jpg" width="700" alt="Retro Running Sneaker Ad Storyboard">
-</a>
+<img src="https://pbs.twimg.com/amplify_video_thumb/2107967821468889088/img/c9D-DRu6npLW9Oac.jpg" width="460" alt="Retro Running Sneaker Ad Storyboard">
+</div>
 
 **[Watch original video →](https://x.com/DuaFatimaAi/status/2107967946991792435)**
-
-</div>
 
 #### 📝 About This Case
 
