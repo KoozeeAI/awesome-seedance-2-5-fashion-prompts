@@ -12,6 +12,10 @@ Explore prompts by their primary fashion output type.
 - [Orthopedic Slides Footwear Product Commercial](../cases/orthopedic-slides-footwear-product-commercial.md)
 - [Retro Running Sneaker Ad Storyboard](../cases/retro-running-sneaker-ad-storyboard.md)
 
+### Creative Fashion Video (1)
+
+- [Silver Dress Multi-Outfit 3D Commercial](../cases/silver-dress-multi-outfit-3d-commercial.md)
+
 ### Outfit Transition (4)
 
 - [Couture Ball Gown Palace Runway Video](../cases/couture-ball-gown-palace-runway-video.md)
@@ -19,6 +23,7 @@ Explore prompts by their primary fashion output type.
 - [NYC Crosswalk Multi-Look Fashion Film](../cases/nyc-crosswalk-multi-look-fashion-film.md)
 - [Overhead Autumn Outfit Transition Film](../cases/overhead-autumn-outfit-transition-film.md)
 
-### Cinematic Campaign (1)
+### Cinematic Campaign (2)
 
+- [Paris Luxury Outfit Cinematic Campaign](../cases/paris-luxury-outfit-cinematic-campaign.md)
 - [Pink Prada Handbag Tokyo Campaign Film](../cases/pink-prada-handbag-tokyo-campaign-film.md)

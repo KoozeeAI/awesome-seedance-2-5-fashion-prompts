@@ -43,3 +43,11 @@ Explore prompts by their intended fashion use case.
 ### Seven-look hard-cut outfit transitions in a photoreal street fashion film (1)
 
 - [NYC Crosswalk Multi-Look Fashion Film](../cases/nyc-crosswalk-multi-look-fashion-film.md)
+
+### Single-reference-image luxury fashion film with outfit, heels, and handbag consistency (1)
+
+- [Paris Luxury Outfit Cinematic Campaign](../cases/paris-luxury-outfit-cinematic-campaign.md)
+
+### Surreal multi-outfit fashion campaign with dress transformation, mirror look variants, and runway presentation (1)
+
+- [Silver Dress Multi-Outfit 3D Commercial](../cases/silver-dress-multi-outfit-3d-commercial.md)

@@ -1,5 +1,5 @@
 {
-  "case_count": 10,
+  "case_count": 12,
   "cases": [
     {
       "content_category": "Outfit Transition",
@@ -91,6 +91,17 @@
     },
     {
       "content_category": "Cinematic Campaign",
+      "fashion_use_case": "Single-reference-image luxury fashion film with outfit, heels, and handbag consistency",
+      "filename": "paris-luxury-outfit-cinematic-campaign.md",
+      "media_type": "Video",
+      "normalized_model_key": "seedance-2-5",
+      "product_category": "Mixed Fashion",
+      "raw_model": "Seedance 2.5",
+      "source_path": "cases/paris-luxury-outfit-cinematic-campaign.md",
+      "title": "Paris Luxury Outfit Cinematic Campaign"
+    },
+    {
+      "content_category": "Cinematic Campaign",
       "fashion_use_case": "Luxury handbag product campaign with strict bag color, logo, and hardware consistency across editorial street scenes",
       "filename": "pink-prada-handbag-tokyo-campaign-film.md",
       "media_type": "Video",
@@ -110,6 +121,17 @@
       "raw_model": "seedance 2.5",
       "source_path": "cases/retro-running-sneaker-ad-storyboard.md",
       "title": "Retro Running Sneaker Ad Storyboard"
+    },
+    {
+      "content_category": "Creative Fashion Video",
+      "fashion_use_case": "Surreal multi-outfit fashion campaign with dress transformation, mirror look variants, and runway presentation",
+      "filename": "silver-dress-multi-outfit-3d-commercial.md",
+      "media_type": "Video",
+      "normalized_model_key": "seedance-2-5",
+      "product_category": "Mixed Fashion",
+      "raw_model": "Seedance 2.5",
+      "source_path": "cases/silver-dress-multi-outfit-3d-commercial.md",
+      "title": "Silver Dress Multi-Outfit 3D Commercial"
     }
   ],
   "generated_from": "KoozeeAI/ai-fashion-prompts",

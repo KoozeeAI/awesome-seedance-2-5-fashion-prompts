@@ -24,7 +24,9 @@ Explore prompts by the fashion product featured in each case.
 
 - [Everyday to Couture One-Shot Commercial](../cases/everyday-to-couture-one-shot-commercial.md)
 
-### Mixed Fashion (2)
+### Mixed Fashion (4)
 
 - [NYC Crosswalk Multi-Look Fashion Film](../cases/nyc-crosswalk-multi-look-fashion-film.md)
 - [Overhead Autumn Outfit Transition Film](../cases/overhead-autumn-outfit-transition-film.md)
+- [Paris Luxury Outfit Cinematic Campaign](../cases/paris-luxury-outfit-cinematic-campaign.md)
+- [Silver Dress Multi-Outfit 3D Commercial](../cases/silver-dress-multi-outfit-3d-commercial.md)

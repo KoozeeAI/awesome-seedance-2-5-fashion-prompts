@@ -41,10 +41,10 @@ Seedance 2.5 is an AI video generation model. For fashion teams, it is relevant 
 
 | Metric | Count |
 | --- | ---: |
-| Total Prompts | 10 |
-| Video Prompts | 10 |
+| Total Prompts | 12 |
+| Video Prompts | 12 |
 | Product Categories | 5 |
-| Fashion Use Cases | 10 |
+| Fashion Use Cases | 12 |
 
 ## ✨ Fashion Prompt Examples
 
@@ -416,7 +416,59 @@ Preserve Yuna’s exact:
 
 ---
 
-### No. 9: Pink Prada Handbag Tokyo Campaign Film
+### No. 9: Paris Luxury Outfit Cinematic Campaign
+
+#### ▶️ Video Preview
+
+<div align="center">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103296814111981568/img/t1W_SkPb88uE3xqH.jpg" width="460" alt="Paris Luxury Outfit Cinematic Campaign">
+</div>
+
+**[Watch original video →](https://x.com/MeenakshiYACS/status/2104186795738943724)**
+
+#### 📝 About This Case
+
+A curated AI fashion prompt for Mixed Fashion · Single-reference-image luxury fashion film with outfit, heels, and handbag consistency · Video.
+
+#### 💬 Prompt Preview
+
+```
+What if you could turn ONE fashion reference image into a cinematic Paris luxury campaign?
+
+I’m testing this workflow with Wizstar + Seedance 2.5.
+
+One character.
+One outfit.
+One continuous walk.
+Cinematic camera movement.
+Paris + Eiffel Tower.
+Luxury fashion-film aesthetic.
+
+The key is giving Seedance 2.5 a detailed prompt for character consistency, camera movement, transitions, lighting and timing.
+
+Try creating your own cinematic fashion film with @WizstarAI and Seedance 2.5👇
+
+https://t.co/4AqzVtkMdV
+
+Prompt -
+```
+...
+
+**[View full prompt →](./cases/paris-luxury-outfit-cinematic-campaign.md)**
+
+#### 🏷️ Details
+
+- **Model:** Seedance 2.5
+- **Media Type:** Video
+- **Fashion Use Case:** Single-reference-image luxury fashion film with outfit, heels, and handbag consistency
+- **Content Category:** Cinematic Campaign
+- **Product Category:** Mixed Fashion
+- **Creator:** Meenakshi Yadav (@MeenakshiYACS)
+- **Source:** [View original source](https://x.com/MeenakshiYACS/status/2104186795738943724)
+
+---
+
+### No. 10: Pink Prada Handbag Tokyo Campaign Film
 
 #### ▶️ Video Preview
 
@@ -459,7 +511,7 @@ Use ONE consistent young female model throughout. Keep the same face, hairstyle,
 
 ---
 
-### No. 10: Retro Running Sneaker Ad Storyboard
+### No. 11: Retro Running Sneaker Ad Storyboard
 
 #### ▶️ Video Preview
 
@@ -504,6 +556,54 @@ Cinematic low-angle full-body shot of the male model walking confidently through
 - **Product Category:** Shoes
 - **Creator:** Dua Fatima (@DuaFatimaAi)
 - **Source:** [View original source](https://x.com/DuaFatimaAi/status/2107967946991792435)
+
+---
+
+### No. 12: Silver Dress Multi-Outfit 3D Commercial
+
+#### ▶️ Video Preview
+
+<div align="center">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108402445873459200/img/T-dIwDwq6qeOK7Pu.jpg" width="460" alt="Silver Dress Multi-Outfit 3D Commercial">
+</div>
+
+**[Watch original video →](https://x.com/AIwithkhan/status/2108402513997377814)**
+
+#### 📝 About This Case
+
+A curated AI fashion prompt for Mixed Fashion · Surreal multi-outfit fashion campaign with dress transformation, mirror look variants, and runway presentation · Video.
+
+#### 💬 Prompt Preview
+
+```
+**Character & Setting**
+A confident young woman with long dark hair, wearing a cream blazer, wide-leg trousers, and stylish sneakers, visits a futuristic fashion boutique filled with elegant displays, reflective surfaces, and luxurious designer clothing.
+
+**Style**
+High-end glossy 3D animation mixed with surreal visual effects. Elegant fashion-commercial aesthetics combined with playful fantasy, smooth character animation, reflective surfaces, dramatic lighting, and seamless visual transitions.
+
+**Camera & Framing**
+Fashion-style close-ups, smooth tracking shots, mirror reflections, rotating camera movements, symmetrical compositions, and dramatic wide shots. Fluid cinematic transitions, polished camera choreography, and dynamic perspectives.
+
+**Scene Breakdown**
+
+She enters an elegant futuristic clothing store and notices a beautiful silver dress displayed behind glass. Fascinated by its shimmering fabric, she approaches and gently touches the dress.
+
+Suddenly, the entire store begins
+```
+...
+
+**[View full prompt →](./cases/silver-dress-multi-outfit-3d-commercial.md)**
+
+#### 🏷️ Details
+
+- **Model:** Seedance 2.5
+- **Media Type:** Video
+- **Fashion Use Case:** Surreal multi-outfit fashion campaign with dress transformation, mirror look variants, and runway presentation
+- **Content Category:** Creative Fashion Video
+- **Product Category:** Mixed Fashion
+- **Creator:** Smiling Khan (@AIwithkhan)
+- **Source:** [View original source](https://x.com/AIwithkhan/status/2108402513997377814)
 
 ## 🧩 Browse Fashion Prompts by Category
 
