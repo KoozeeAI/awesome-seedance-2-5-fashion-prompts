@@ -8,6 +8,14 @@ Explore prompts by their intended fashion use case.
 
 - [Orthopedic Slides Footwear Product Commercial](../cases/orthopedic-slides-footwear-product-commercial.md)
 
+### Cinematic footwear product advertisement with on-model styling, hero close-ups, studio rotation, and consistent shoe design across scenes (1)
+
+- [Lime Green Clog Product Commercial](../cases/lime-green-clog-product-commercial.md)
+
+### Footwear product commercial with strict sneaker design consistency and hero product shots (1)
+
+- [Futuristic Rocket Sneakers Product Commercial](../cases/futuristic-rocket-sneakers-product-commercial.md)
+
 ### Luxury handbag product campaign with strict bag color, logo, and hardware consistency across editorial street scenes (1)
 
 - [Pink Prada Handbag Tokyo Campaign Film](../cases/pink-prada-handbag-tokyo-campaign-film.md)
@@ -15,3 +23,7 @@ Explore prompts by their intended fashion use case.
 ### Multi-panel sports sneaker advertising storyboard with hero product shots, macro footwear detail, and cross-panel shoe consistency (1)
 
 - [Retro Running Sneaker Ad Storyboard](../cases/retro-running-sneaker-ad-storyboard.md)
+
+### Multi-scene cinematic sneaker product advertising with hero macro shots and consistent footwear presentation (1)
+
+- [Orange-White Running Sneaker Cinematic Commercial](../cases/orange-white-running-sneaker-cinematic-commercial.md)

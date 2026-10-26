@@ -41,14 +41,151 @@ Seedance 2.5 is an AI video generation model. For fashion teams, it is relevant 
 
 | Metric | Count |
 | --- | ---: |
-| Total Prompts | 3 |
-| Video Prompts | 3 |
+| Total Prompts | 6 |
+| Video Prompts | 6 |
 | Product Categories | 2 |
-| Fashion Use Cases | 3 |
+| Fashion Use Cases | 6 |
 
 ## ✨ Fashion Prompt Examples
 
-### No. 1: Orthopedic Slides Footwear Product Commercial
+### No. 1: Futuristic Rocket Sneakers Product Commercial
+
+#### ▶️ Video Preview
+
+<div align="center">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111764002129010688/img/P1fCDiWMgbLTPUFP.jpg" width="460" alt="Futuristic Rocket Sneakers Product Commercial">
+</div>
+
+**[Watch original video →](https://x.com/Just_sharon7/status/2111764736207716496)**
+
+#### 📝 About This Case
+
+A curated AI fashion prompt for Shoes · Footwear product commercial with strict sneaker design consistency and hero product shots · Video.
+
+#### 💬 Prompt Preview
+
+```
+CORE CONCEPT:
+
+Create a spectacular, ultra-photorealistic commercial for a fictional pair of Tesla Roadster-inspired rocket sneakers. hf_20261018_094350_3772e482-fc2f-4539-ba66-e0eb60ba835f 
+
+The sneakers are futuristic wearable transportation devices with miniature electric propulsion systems capable of lifting a person into the air, accelerating through city streets, and hovering effortlessly.
+
+The commercial follows an ordinary young office image (12) worker who uses these extraordinary shoes hf_20261018_094350_3772e482-fc2f-4539-ba66-e0eb60ba835f to complete her daily routine, treating the technology as completely normal.
+
+The visual humor comes from the contrast between impossible futuristic technology and mundane everyday activities.
+
+MAIN CHARACTER — IDENTITY LOCK: image (12) 
+
+Her personality is calm, slightly bored, confident, and unintentionally funny. she never acts like flying is unusual.
+
+PRODUCT DESIGN — STRICT IDENTITY LOCK:
+
+The sneakers are futuristic luxury footwear @
+```
+...
+
+**[View full prompt →](./cases/futuristic-rocket-sneakers-product-commercial.md)**
+
+#### 🏷️ Details
+
+- **Model:** Seedance 2.5
+- **Media Type:** Video
+- **Fashion Use Case:** Footwear product commercial with strict sneaker design consistency and hero product shots
+- **Content Category:** Product Commercial
+- **Product Category:** Shoes
+- **Creator:** Sharon Riley (@Just_sharon7)
+- **Source:** [View original source](https://x.com/Just_sharon7/status/2111764736207716496)
+
+---
+
+### No. 2: Lime Green Clog Product Commercial
+
+#### ▶️ Video Preview
+
+<div align="center">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2107782689654972416/img/sE_8HaLb1JQ6_Uq1.jpg" width="460" alt="Lime Green Clog Product Commercial">
+</div>
+
+**[Watch original video →](https://x.com/DuaFatimaAi/status/2107782755044225277)**
+
+#### 📝 About This Case
+
+A curated AI fashion prompt for Shoes · Cinematic footwear product advertisement with on-model styling, hero close-ups, studio rotation, and consistent shoe design across scenes · Video.
+
+#### 💬 Prompt Preview
+
+```
+Create a high-end cinematic fashion/product advertisement for a lime-green Crocs-style clog.
+
+A young male model with curly dark hair wears a black oversized T-shirt, lime-green cargo pants, white crew socks, and matching lime-green clogs. He walks confidently through a modern downtown city street during golden-hour sunlight. Use realistic urban architecture, shallow depth of field, natural shadows, cinematic lens flare, and smooth fashion-commercial camera movement.
+
+Scene 1: Wide low-angle shot of the model walking down a city street, showcasing the complete outfit and shoes.
+
+Scene 2: Extreme close-up of the lime-green clog stepping onto wet pavement, with water splashing dramatically around the shoe. Capture detailed texture, holes, sole, strap, and realistic reflections.
+
+Scene 3: Dramatic aerial cinematic shot of the model sitting on the edge of a very tall skyscraper, with the city streets and yellow taxis far below. Keep the model and shoes sharply detailed while maintaining re
+```
+...
+
+**[View full prompt →](./cases/lime-green-clog-product-commercial.md)**
+
+#### 🏷️ Details
+
+- **Model:** Seedance 2.5
+- **Media Type:** Video
+- **Fashion Use Case:** Cinematic footwear product advertisement with on-model styling, hero close-ups, studio rotation, and consistent shoe design across scenes
+- **Content Category:** Product Commercial
+- **Product Category:** Shoes
+- **Creator:** Dua Fatima (@DuaFatimaAi)
+- **Source:** [View original source](https://x.com/DuaFatimaAi/status/2107782755044225277)
+
+---
+
+### No. 3: Orange-White Running Sneaker Cinematic Commercial
+
+#### ▶️ Video Preview
+
+<div align="center">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106923046686871552/img/S6ysHjreYZAOoV0-.jpg" width="460" alt="Orange-White Running Sneaker Cinematic Commercial">
+</div>
+
+**[Watch original video →](https://x.com/DuaFatimaAi/status/2106923108938756440)**
+
+#### 📝 About This Case
+
+A curated AI fashion prompt for Shoes · Multi-scene cinematic sneaker product advertising with hero macro shots and consistent footwear presentation · Video.
+
+#### 💬 Prompt Preview
+
+```
+Prompt
+
+Create a high-end photorealistic 6-scene cinematic advertising storyboard for a modern orange-and-white lifestyle running sneaker, featuring the same elderly male adventurer throughout. He has wild white hair, a white mustache, expressive aged facial features, a navy blue jacket, bright yellow jogger pants, an orange backpack, gray socks, and orange-and-white sneakers.
+
+Scene 1 — 0–10s:
+Wide cinematic street shot in a modern downtown city during golden-hour daylight. The elderly man confidently walks toward the camera across a city street, wearing the orange-and-white sneakers. Low-angle perspective, skyscrapers surrounding him, pedestrians and cars in the background, dramatic sunlight, realistic shadows, premium commercial photography. Add bold Indonesian advertising text: “LANGKAH KECIL JADI BESAR” and smaller text “NYAMAN DI SETIAP PERJALANAN.”
+
+Scene 2 — 10–20s:
+Dynamic tracking shot of the same man running energetically through the city street. One foot captured mid-stride
+```
+...
+
+**[View full prompt →](./cases/orange-white-running-sneaker-cinematic-commercial.md)**
+
+#### 🏷️ Details
+
+- **Model:** Seedance 2.5
+- **Media Type:** Video
+- **Fashion Use Case:** Multi-scene cinematic sneaker product advertising with hero macro shots and consistent footwear presentation
+- **Content Category:** Product Commercial
+- **Product Category:** Shoes
+- **Creator:** Dua Fatima (@DuaFatimaAi)
+- **Source:** [View original source](https://x.com/DuaFatimaAi/status/2106923108938756440)
+
+---
+
+### No. 4: Orthopedic Slides Footwear Product Commercial
 
 #### ▶️ Video Preview
 
@@ -93,7 +230,7 @@ Scene 3 (6–8s): Extreme close-up of the textured olive-green strap and black c
 
 ---
 
-### No. 2: Pink Prada Handbag Tokyo Campaign Film
+### No. 5: Pink Prada Handbag Tokyo Campaign Film
 
 #### ▶️ Video Preview
 
@@ -136,7 +273,7 @@ Use ONE consistent young female model throughout. Keep the same face, hairstyle,
 
 ---
 
-### No. 3: Retro Running Sneaker Ad Storyboard
+### No. 6: Retro Running Sneaker Ad Storyboard
 
 #### ▶️ Video Preview
 

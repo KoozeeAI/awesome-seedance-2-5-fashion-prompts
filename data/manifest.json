@@ -1,6 +1,39 @@
 {
-  "case_count": 3,
+  "case_count": 6,
   "cases": [
+    {
+      "content_category": "Product Commercial",
+      "fashion_use_case": "Footwear product commercial with strict sneaker design consistency and hero product shots",
+      "filename": "futuristic-rocket-sneakers-product-commercial.md",
+      "media_type": "Video",
+      "normalized_model_key": "seedance-2-5",
+      "product_category": "Shoes",
+      "raw_model": "Seedance 2.5",
+      "source_path": "cases/futuristic-rocket-sneakers-product-commercial.md",
+      "title": "Futuristic Rocket Sneakers Product Commercial"
+    },
+    {
+      "content_category": "Product Commercial",
+      "fashion_use_case": "Cinematic footwear product advertisement with on-model styling, hero close-ups, studio rotation, and consistent shoe design across scenes",
+      "filename": "lime-green-clog-product-commercial.md",
+      "media_type": "Video",
+      "normalized_model_key": "seedance-2-5",
+      "product_category": "Shoes",
+      "raw_model": "Seedance 2.5",
+      "source_path": "cases/lime-green-clog-product-commercial.md",
+      "title": "Lime Green Clog Product Commercial"
+    },
+    {
+      "content_category": "Product Commercial",
+      "fashion_use_case": "Multi-scene cinematic sneaker product advertising with hero macro shots and consistent footwear presentation",
+      "filename": "orange-white-running-sneaker-cinematic-commercial.md",
+      "media_type": "Video",
+      "normalized_model_key": "seedance-2-5",
+      "product_category": "Shoes",
+      "raw_model": "Seedance 2.5",
+      "source_path": "cases/orange-white-running-sneaker-cinematic-commercial.md",
+      "title": "Orange-White Running Sneaker Cinematic Commercial"
+    },
     {
       "content_category": "Product Commercial",
       "fashion_use_case": "Cinematic footwear product advertisement with design and branding fidelity",
