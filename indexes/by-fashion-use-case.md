@@ -12,6 +12,14 @@ Explore prompts by their intended fashion use case.
 
 - [Lime Green Clog Product Commercial](../cases/lime-green-clog-product-commercial.md)
 
+### Continuous apparel and fabric transformation into luxury couture for a fashion campaign hero shot (1)
+
+- [Everyday to Couture One-Shot Commercial](../cases/everyday-to-couture-one-shot-commercial.md)
+
+### Editorial multi-look autumn campaign with in-camera fan-blade wardrobe reveals and strict per-look garment, shoe, and handbag continuity (1)
+
+- [Overhead Autumn Outfit Transition Film](../cases/overhead-autumn-outfit-transition-film.md)
+
 ### Footwear product commercial with strict sneaker design consistency and hero product shots (1)
 
 - [Futuristic Rocket Sneakers Product Commercial](../cases/futuristic-rocket-sneakers-product-commercial.md)
@@ -20,6 +28,10 @@ Explore prompts by their intended fashion use case.
 
 - [Pink Prada Handbag Tokyo Campaign Film](../cases/pink-prada-handbag-tokyo-campaign-film.md)
 
+### Multi-gown couture showcase with fabric drape, embroidery detail, and seamless outfit transitions in a runway-style presentation (1)
+
+- [Couture Ball Gown Palace Runway Video](../cases/couture-ball-gown-palace-runway-video.md)
+
 ### Multi-panel sports sneaker advertising storyboard with hero product shots, macro footwear detail, and cross-panel shoe consistency (1)
 
 - [Retro Running Sneaker Ad Storyboard](../cases/retro-running-sneaker-ad-storyboard.md)
@@ -27,3 +39,7 @@ Explore prompts by their intended fashion use case.
 ### Multi-scene cinematic sneaker product advertising with hero macro shots and consistent footwear presentation (1)
 
 - [Orange-White Running Sneaker Cinematic Commercial](../cases/orange-white-running-sneaker-cinematic-commercial.md)
+
+### Seven-look hard-cut outfit transitions in a photoreal street fashion film (1)
+
+- [NYC Crosswalk Multi-Look Fashion Film](../cases/nyc-crosswalk-multi-look-fashion-film.md)

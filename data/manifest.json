@@ -1,6 +1,28 @@
 {
-  "case_count": 6,
+  "case_count": 10,
   "cases": [
+    {
+      "content_category": "Outfit Transition",
+      "fashion_use_case": "Multi-gown couture showcase with fabric drape, embroidery detail, and seamless outfit transitions in a runway-style presentation",
+      "filename": "couture-ball-gown-palace-runway-video.md",
+      "media_type": "Video",
+      "normalized_model_key": "seedance-2-5",
+      "product_category": "Dress",
+      "raw_model": "Seedance 2.5",
+      "source_path": "cases/couture-ball-gown-palace-runway-video.md",
+      "title": "Couture Ball Gown Palace Runway Video"
+    },
+    {
+      "content_category": "Outfit Transition",
+      "fashion_use_case": "Continuous apparel and fabric transformation into luxury couture for a fashion campaign hero shot",
+      "filename": "everyday-to-couture-one-shot-commercial.md",
+      "media_type": "Video",
+      "normalized_model_key": "seedance-2-5",
+      "product_category": "Full Outfit",
+      "raw_model": "Seedance 2.5",
+      "source_path": "cases/everyday-to-couture-one-shot-commercial.md",
+      "title": "Everyday to Couture One-Shot Commercial"
+    },
     {
       "content_category": "Product Commercial",
       "fashion_use_case": "Footwear product commercial with strict sneaker design consistency and hero product shots",
@@ -24,6 +46,17 @@
       "title": "Lime Green Clog Product Commercial"
     },
     {
+      "content_category": "Outfit Transition",
+      "fashion_use_case": "Seven-look hard-cut outfit transitions in a photoreal street fashion film",
+      "filename": "nyc-crosswalk-multi-look-fashion-film.md",
+      "media_type": "Video",
+      "normalized_model_key": "seedance-2-5",
+      "product_category": "Mixed Fashion",
+      "raw_model": "Seedance 2.5",
+      "source_path": "cases/nyc-crosswalk-multi-look-fashion-film.md",
+      "title": "NYC Crosswalk Multi-Look Fashion Film"
+    },
+    {
       "content_category": "Product Commercial",
       "fashion_use_case": "Multi-scene cinematic sneaker product advertising with hero macro shots and consistent footwear presentation",
       "filename": "orange-white-running-sneaker-cinematic-commercial.md",
@@ -44,6 +77,17 @@
       "raw_model": "seedance 2.5",
       "source_path": "cases/orthopedic-slides-footwear-product-commercial.md",
       "title": "Orthopedic Slides Footwear Product Commercial"
+    },
+    {
+      "content_category": "Outfit Transition",
+      "fashion_use_case": "Editorial multi-look autumn campaign with in-camera fan-blade wardrobe reveals and strict per-look garment, shoe, and handbag continuity",
+      "filename": "overhead-autumn-outfit-transition-film.md",
+      "media_type": "Video",
+      "normalized_model_key": "seedance-2-5",
+      "product_category": "Mixed Fashion",
+      "raw_model": "Seedance 2.5",
+      "source_path": "cases/overhead-autumn-outfit-transition-film.md",
+      "title": "Overhead Autumn Outfit Transition Film"
     },
     {
       "content_category": "Cinematic Campaign",

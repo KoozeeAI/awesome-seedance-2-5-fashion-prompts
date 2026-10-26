@@ -41,14 +41,100 @@ Seedance 2.5 is an AI video generation model. For fashion teams, it is relevant 
 
 | Metric | Count |
 | --- | ---: |
-| Total Prompts | 6 |
-| Video Prompts | 6 |
-| Product Categories | 2 |
-| Fashion Use Cases | 6 |
+| Total Prompts | 10 |
+| Video Prompts | 10 |
+| Product Categories | 5 |
+| Fashion Use Cases | 10 |
 
 ## ✨ Fashion Prompt Examples
 
-### No. 1: Futuristic Rocket Sneakers Product Commercial
+### No. 1: Couture Ball Gown Palace Runway Video
+
+#### ▶️ Video Preview
+
+<div align="center">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108783705091383296/img/yNnfRU_rcqm1I_cC.jpg" width="460" alt="Couture Ball Gown Palace Runway Video">
+</div>
+
+**[Watch original video →](https://x.com/Zoyavelle/status/2108783755460853994)**
+
+#### 📝 About This Case
+
+A curated AI fashion prompt for Dress · Multi-gown couture showcase with fabric drape, embroidery detail, and seamless outfit transitions in a runway-style presentation · Video.
+
+#### 💬 Prompt Preview
+
+```
+A stunning blonde fashion model gracefully walks and poses in a luxurious palace ballroom, wearing an enormous elegant princess ball gown. She gently holds both sides of her voluminous skirt and slowly turns, allowing the delicate embroidered fabric to flow naturally. The camera smoothly moves forward and captures her full body and the intricate details of the dress. Transition seamlessly between different luxurious gowns in pastel pink, icy blue, lavender, champagne gold, and black, with each dress appearing in a grand palace interior with elegant chandeliers and cinematic lighting. Realistic walking motion, natural fabric movement, graceful posing, smooth cinematic transitions, high-end couture fashion runway aesthetic, photorealistic details, stable camera, vertical 9:16 video.
+```
+
+**[View full prompt →](./cases/couture-ball-gown-palace-runway-video.md)**
+
+#### 🏷️ Details
+
+- **Model:** Seedance 2.5
+- **Media Type:** Video
+- **Fashion Use Case:** Multi-gown couture showcase with fabric drape, embroidery detail, and seamless outfit transitions in a runway-style presentation
+- **Content Category:** Outfit Transition
+- **Product Category:** Dress
+- **Creator:** Zoya (@Zoyavelle)
+- **Source:** [View original source](https://x.com/Zoyavelle/status/2108783755460853994)
+
+---
+
+### No. 2: Everyday to Couture One-Shot Commercial
+
+#### ▶️ Video Preview
+
+<div align="center">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2101580198747799552/img/gWtfZe3hz0MNEHrz.jpg" width="460" alt="Everyday to Couture One-Shot Commercial">
+</div>
+
+**[Watch original video →](https://x.com/MeenakshiYACS/status/2102586248498196843)**
+
+#### 📝 About This Case
+
+A curated AI fashion prompt for Full Outfit · Continuous apparel and fabric transformation into luxury couture for a fashion campaign hero shot · Video.
+
+#### 💬 Prompt Preview
+
+```
+FROM EVERYDAY TO ICON.
+
+What if a simple white T-shirt + jeans could transform into a luxury couture campaign… without a single cut?
+
+I tested this concept with Wizstar + Seedance 2.5.
+
+The entire transformation happens while the character keeps walking:
+
+→ Everyday outfit
+→ Fabric transformation
+→ Couture gown
+→ Sneakers → heels
+→ Apartment → fashion studio
+→ Final luxury editorial hero shot
+
+The hardest part: keeping the same face, identity, body proportions and continuous motion throughout the transformation.
+
+This is where detailed prompting makes a huge difference.
+```
+...
+
+**[View full prompt →](./cases/everyday-to-couture-one-shot-commercial.md)**
+
+#### 🏷️ Details
+
+- **Model:** Seedance 2.5
+- **Media Type:** Video
+- **Fashion Use Case:** Continuous apparel and fabric transformation into luxury couture for a fashion campaign hero shot
+- **Content Category:** Outfit Transition
+- **Product Category:** Full Outfit
+- **Creator:** Meenakshi Yadav (@MeenakshiYACS)
+- **Source:** [View original source](https://x.com/MeenakshiYACS/status/2102586248498196843)
+
+---
+
+### No. 3: Futuristic Rocket Sneakers Product Commercial
 
 #### ▶️ Video Preview
 
@@ -99,7 +185,7 @@ The sneakers are futuristic luxury footwear @
 
 ---
 
-### No. 2: Lime Green Clog Product Commercial
+### No. 4: Lime Green Clog Product Commercial
 
 #### ▶️ Video Preview
 
@@ -142,7 +228,54 @@ Scene 3: Dramatic aerial cinematic shot of the model sitting on the edge of a ve
 
 ---
 
-### No. 3: Orange-White Running Sneaker Cinematic Commercial
+### No. 5: NYC Crosswalk Multi-Look Fashion Film
+
+#### ▶️ Video Preview
+
+<div align="center">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106388670316167168/img/aF3irbk_hImmL2Is.jpg" width="460" alt="NYC Crosswalk Multi-Look Fashion Film">
+</div>
+
+**[Watch original video →](https://x.com/im_shahid7/status/2106388800700301714)**
+
+#### 📝 About This Case
+
+A curated AI fashion prompt for Mixed Fashion · Seven-look hard-cut outfit transitions in a photoreal street fashion film · Video.
+
+#### 💬 Prompt Preview
+
+```
+Vertical 9:16, 15 seconds, photoreal fashion film, locked camera, NYC downtown street, crosswalk, ONE WAY sign, red traffic light, tall glass towers, bright daylight.
+
+Same family group the whole video, same faces, same positions, same dog:
+center young woman, two men in suits on the left, small boy, older grey-bearded man, blonde woman on the right, golden retriever sitting on the sidewalk.
+
+Hard outfit cuts only, hidden by passing cars. No morph, no glow, no particles.
+Look 1: all black tailoring, woman in black mini dress, pink bow, pink boots.
+Look 2: electric blue suits, woman pink hair, blue crop top, silver metallic pants, platform boots, beige bag.
+Look 3: chocolate brown suits, woman pink jacket, leopard bucket hat, brown leggings, pink socks.
+Look 4: olive green suits, woman streetwear, neon socks, combat boots.
+Look 5: hot pink suits, woman rainbow check mini dress, yellow hat.
+Look 6: yellow suits, woman brown trench, white boots.
+Look 7: all black again, woman leather jack
+```
+...
+
+**[View full prompt →](./cases/nyc-crosswalk-multi-look-fashion-film.md)**
+
+#### 🏷️ Details
+
+- **Model:** Seedance 2.5
+- **Media Type:** Video
+- **Fashion Use Case:** Seven-look hard-cut outfit transitions in a photoreal street fashion film
+- **Content Category:** Outfit Transition
+- **Product Category:** Mixed Fashion
+- **Creator:** Al-Shamus (@im_shahid7)
+- **Source:** [View original source](https://x.com/im_shahid7/status/2106388800700301714)
+
+---
+
+### No. 6: Orange-White Running Sneaker Cinematic Commercial
 
 #### ▶️ Video Preview
 
@@ -185,7 +318,7 @@ Dynamic tracking shot of the same man running energetically through the city str
 
 ---
 
-### No. 4: Orthopedic Slides Footwear Product Commercial
+### No. 7: Orthopedic Slides Footwear Product Commercial
 
 #### ▶️ Video Preview
 
@@ -230,7 +363,60 @@ Scene 3 (6–8s): Extreme close-up of the textured olive-green strap and black c
 
 ---
 
-### No. 5: Pink Prada Handbag Tokyo Campaign Film
+### No. 8: Overhead Autumn Outfit Transition Film
+
+#### ▶️ Video Preview
+
+<div align="center">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2104945892667338752/img/glRUGZL6C9ByKG6L.jpg" width="460" alt="Overhead Autumn Outfit Transition Film">
+</div>
+
+**[Watch original video →](https://x.com/im_shahid7/status/2104946416804155777)**
+
+#### 📝 About This Case
+
+A curated AI fashion prompt for Mixed Fashion · Editorial multi-look autumn campaign with in-camera fan-blade wardrobe reveals and strict per-look garment, shoe, and handbag continuity · Video.
+
+#### 💬 Prompt Preview
+
+```
+The transition 🔥
+Made on Seedance 2.5
+Prompt:
+Using the supplied first frame as the exact opening image, create a 20-second horizontal 4:3 ultra-photorealistic autumn fashion film.
+
+CORE CONCEPT
+
+Yuna Bell remains lying on the same rug beneath a continuously rotating walnut ceiling fan.
+
+The fixed overhead camera never moves.
+
+Every time one fan blade physically sweeps across Yuna’s body, her outfit changes seamlessly into the next established autumn look. The blade is the only transition device.
+
+The effect must resemble an expertly planned practical in-camera fashion transition, not a magical body transformation.
+
+IDENTITY LOCK
+
+Preserve Yuna’s exact:
+- Face
+```
+...
+
+**[View full prompt →](./cases/overhead-autumn-outfit-transition-film.md)**
+
+#### 🏷️ Details
+
+- **Model:** Seedance 2.5
+- **Media Type:** Video
+- **Fashion Use Case:** Editorial multi-look autumn campaign with in-camera fan-blade wardrobe reveals and strict per-look garment, shoe, and handbag continuity
+- **Content Category:** Outfit Transition
+- **Product Category:** Mixed Fashion
+- **Creator:** Al-Shamus (@im_shahid7)
+- **Source:** [View original source](https://x.com/im_shahid7/status/2104946416804155777)
+
+---
+
+### No. 9: Pink Prada Handbag Tokyo Campaign Film
 
 #### ▶️ Video Preview
 
@@ -273,7 +459,7 @@ Use ONE consistent young female model throughout. Keep the same face, hairstyle,
 
 ---
 
-### No. 6: Retro Running Sneaker Ad Storyboard
+### No. 10: Retro Running Sneaker Ad Storyboard
 
 #### ▶️ Video Preview
 
