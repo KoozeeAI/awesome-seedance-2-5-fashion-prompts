@@ -1,6 +1,28 @@
 {
-  "case_count": 12,
+  "case_count": 18,
   "cases": [
+    {
+      "content_category": "Cinematic Campaign",
+      "fashion_use_case": "High-fashion editorial motion with voluminous dress drape and wind-driven hem fabric behavior",
+      "filename": "black-gown-wind-motion-editorial.md",
+      "media_type": "Video",
+      "normalized_model_key": "seedance-2-5",
+      "product_category": "Dress",
+      "raw_model": "Seedance 2.5",
+      "source_path": "cases/black-gown-wind-motion-editorial.md",
+      "title": "Black Gown Wind Motion Editorial"
+    },
+    {
+      "content_category": "Cinematic Campaign",
+      "fashion_use_case": "Multi-shot luxury fashion film with dress consistency and fabric movement",
+      "filename": "champagne-silk-dress-cinematic-campaign.md",
+      "media_type": "Video",
+      "normalized_model_key": "seedance-2-5",
+      "product_category": "Dress",
+      "raw_model": "Seedance 2.5",
+      "source_path": "cases/champagne-silk-dress-cinematic-campaign.md",
+      "title": "Champagne Silk Dress Cinematic Campaign"
+    },
     {
       "content_category": "Outfit Transition",
       "fashion_use_case": "Multi-gown couture showcase with fabric drape, embroidery detail, and seamless outfit transitions in a runway-style presentation",
@@ -33,6 +55,17 @@
       "raw_model": "Seedance 2.5",
       "source_path": "cases/futuristic-rocket-sneakers-product-commercial.md",
       "title": "Futuristic Rocket Sneakers Product Commercial"
+    },
+    {
+      "content_category": "Cinematic Campaign",
+      "fashion_use_case": "Seasonal Halloween collection commercial with multi-look costume and couture styling, transformation beats, and editorial flat-lay end frame",
+      "filename": "halloween-couture-collection-cinematic-campaign.md",
+      "media_type": "Video",
+      "normalized_model_key": "seedance-2-5",
+      "product_category": "Mixed Fashion",
+      "raw_model": "Seedance 2.5",
+      "source_path": "cases/halloween-couture-collection-cinematic-campaign.md",
+      "title": "Halloween Couture Collection Cinematic Campaign"
     },
     {
       "content_category": "Product Commercial",
@@ -90,6 +123,28 @@
       "title": "Overhead Autumn Outfit Transition Film"
     },
     {
+      "content_category": "Outfit Transition",
+      "fashion_use_case": "Seamless multi-outfit transformation video with specified garment changes and fabric realism",
+      "filename": "overhead-cinematic-multi-outfit-transition.md",
+      "media_type": "Video",
+      "normalized_model_key": "seedance-2-5",
+      "product_category": "Mixed Fashion",
+      "raw_model": "Seedance 2.5",
+      "source_path": "cases/overhead-cinematic-multi-outfit-transition.md",
+      "title": "Overhead Cinematic Multi-Outfit Transition"
+    },
+    {
+      "content_category": "Outfit Transition",
+      "fashion_use_case": "Beat-synced multi-outfit transformation with fan-blade wipe transitions in a cinematic fashion film",
+      "filename": "overhead-fan-multi-look-transition-film.md",
+      "media_type": "Video",
+      "normalized_model_key": "seedance-2-5",
+      "product_category": "Mixed Fashion",
+      "raw_model": "Seedance 2.5",
+      "source_path": "cases/overhead-fan-multi-look-transition-film.md",
+      "title": "Overhead Fan Multi-Look Transition Film"
+    },
+    {
       "content_category": "Cinematic Campaign",
       "fashion_use_case": "Single-reference-image luxury fashion film with outfit, heels, and handbag consistency",
       "filename": "paris-luxury-outfit-cinematic-campaign.md",
@@ -132,6 +187,17 @@
       "raw_model": "Seedance 2.5",
       "source_path": "cases/silver-dress-multi-outfit-3d-commercial.md",
       "title": "Silver Dress Multi-Outfit 3D Commercial"
+    },
+    {
+      "content_category": "Outfit Transition",
+      "fashion_use_case": "Luxury streetwear campaign film with rapid sequential look changes and editorial commercial presentation",
+      "filename": "streetwear-multi-look-editorial-campaign-video.md",
+      "media_type": "Video",
+      "normalized_model_key": "seedance-2-5",
+      "product_category": "Mixed Fashion",
+      "raw_model": "Seedance 2.5",
+      "source_path": "cases/streetwear-multi-look-editorial-campaign-video.md",
+      "title": "Streetwear Multi-Look Editorial Campaign Video"
     }
   ],
   "generated_from": "KoozeeAI/ai-fashion-prompts",

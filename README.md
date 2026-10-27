@@ -41,14 +41,96 @@ Seedance 2.5 is an AI video generation model. For fashion teams, it is relevant 
 
 | Metric | Count |
 | --- | ---: |
-| Total Prompts | 12 |
-| Video Prompts | 12 |
+| Total Prompts | 18 |
+| Video Prompts | 18 |
 | Product Categories | 5 |
-| Fashion Use Cases | 12 |
+| Fashion Use Cases | 18 |
 
 ## ✨ Fashion Prompt Examples
 
-### No. 1: Couture Ball Gown Palace Runway Video
+### No. 1: Black Gown Wind Motion Editorial
+
+#### ▶️ Video Preview
+
+<div align="center">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2113259448802410496/img/GlZIVqksjHTbWd69.jpg" width="460" alt="Black Gown Wind Motion Editorial">
+</div>
+
+**[Watch original video →](https://x.com/zaviaanroy/status/2113259480037388503)**
+
+#### 📝 About This Case
+
+A curated AI fashion prompt for Dress · High-fashion editorial motion with voluminous dress drape and wind-driven hem fabric behavior · Video.
+
+#### 💬 Prompt Preview
+
+```
+Cinematic slow-motion portrait of a woman in a massive, voluminous black dress with heavy layered folds, standing in profile on a vast white salt flat at dusk. A glowing crescent moon sits behind her against a steel-blue, overcast sky. Strong wind continuously whips her long, dark, wavy hair out to the right in flowing strands, while the heavy fabric ripples and sways at the hem. She stays almost still, gazing calmly to the left with a subtle head turn. Static locked-off camera with a very slight, slow push-in. Moody, desaturated teal-blue and charcoal palette, soft diffused light, high-fashion editorial, photoreal, shallow haze on the horizon, 24fps, 9:16.
+
+**Negative prompt (if supported):**
+> camera shake, fast movement, walking, morphing fabric, face distortion, extra limbs, text, watermark, flicker
+
+**Tips:**
+- Since the source is a Midjourney still, use it as the start frame (image-to-video) and keep the prompt focused on motion (wind, hair, fabric) rather than re-describing ever
+```
+...
+
+**[View full prompt →](./cases/black-gown-wind-motion-editorial.md)**
+
+#### 🏷️ Details
+
+- **Model:** Seedance 2.5
+- **Media Type:** Video
+- **Fashion Use Case:** High-fashion editorial motion with voluminous dress drape and wind-driven hem fabric behavior
+- **Content Category:** Cinematic Campaign
+- **Product Category:** Dress
+- **Creator:** Zaviaan (@zaviaanroy)
+- **Source:** [View original source](https://x.com/zaviaanroy/status/2113259480037388503)
+
+---
+
+### No. 2: Champagne Silk Dress Cinematic Campaign
+
+#### ▶️ Video Preview
+
+<div align="center">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2114586917966884865/img/F2vyjzhsSpdN1M08.jpg" width="460" alt="Champagne Silk Dress Cinematic Campaign">
+</div>
+
+**[Watch original video →](https://x.com/CaliraVal/status/2114587534672204150)**
+
+#### 📝 About This Case
+
+A curated AI fashion prompt for Dress · Multi-shot luxury fashion film with dress consistency and fabric movement · Video.
+
+#### 💬 Prompt Preview
+
+```
+Create an ultra-realistic luxury fashion film featuring an elegant young woman in a flowing champagne-gold silk dress, carrying a beautiful bouquet of vibrant orange tulips mixed with delicate white flowers. Her hair is styled in a loose, effortless bun, with soft strands framing her face. She walks through a picturesque European street filled with charming cafés, vintage architecture, and warm late-afternoon sunlight.
+
+SHOT 01 — Cinematic Entrance: Low-angle tracking shot following her elegant heels across textured cobblestones. The camera smoothly tilts upward, revealing her flowing dress and colorful bouquet as sunlight streams between historic buildings.
+
+SHOT 02 — Dynamic Side Tracking: The camera glides beside her as she walks past outdoor cafés. Her dress moves naturally in the breeze, and she glances toward the camera with a subtle, confident smile.
+
+SHOT 03 — Floral Beauty Close-Up: She gently lifts the bouquet toward her face. The camera makes a slow 180-degree orbit around h
+```
+...
+
+**[View full prompt →](./cases/champagne-silk-dress-cinematic-campaign.md)**
+
+#### 🏷️ Details
+
+- **Model:** Seedance 2.5
+- **Media Type:** Video
+- **Fashion Use Case:** Multi-shot luxury fashion film with dress consistency and fabric movement
+- **Content Category:** Cinematic Campaign
+- **Product Category:** Dress
+- **Creator:** Calira (@CaliraVal)
+- **Source:** [View original source](https://x.com/CaliraVal/status/2114587534672204150)
+
+---
+
+### No. 3: Couture Ball Gown Palace Runway Video
 
 #### ▶️ Video Preview
 
@@ -82,7 +164,7 @@ A stunning blonde fashion model gracefully walks and poses in a luxurious palace
 
 ---
 
-### No. 2: Everyday to Couture One-Shot Commercial
+### No. 4: Everyday to Couture One-Shot Commercial
 
 #### ▶️ Video Preview
 
@@ -134,7 +216,7 @@ This is where detailed prompting makes a huge difference.
 
 ---
 
-### No. 3: Futuristic Rocket Sneakers Product Commercial
+### No. 5: Futuristic Rocket Sneakers Product Commercial
 
 #### ▶️ Video Preview
 
@@ -185,7 +267,49 @@ The sneakers are futuristic luxury footwear @
 
 ---
 
-### No. 4: Lime Green Clog Product Commercial
+### No. 6: Halloween Couture Collection Cinematic Campaign
+
+#### ▶️ Video Preview
+
+<div align="center">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2113111237030780928/img/zEtx88d1nVIOqGcw.jpg" width="460" alt="Halloween Couture Collection Cinematic Campaign">
+</div>
+
+**[Watch original video →](https://x.com/ImaStudio_ai/status/2113111408078643327)**
+
+#### 📝 About This Case
+
+A curated AI fashion prompt for Mixed Fashion · Seasonal Halloween collection commercial with multi-look costume and couture styling, transformation beats, and editorial flat-lay end frame · Video.
+
+#### 💬 Prompt Preview
+
+```
+**FORMAT:** 15s · 16:9
+**CONCEPT:** THE NIGHT BELONGS TO YOU
+**STYLE:** Ultra-fancy Halloween fashion and beauty campaign, high-end editorial cinematography, extravagant styling, rich textures, dramatic lighting, rapid cinematic transitions.
+**0–3s | THE REVEAL**
+A grand gothic dressing room bursts into view, overflowing with extravagant Halloween costume props: feathered witch hats, jeweled masquerade masks, black lace gloves, vampire capes, ornate crowns, crystal wands, colored contact lenses, theatrical makeup palettes, and elaborate wigs. A stunning adult blonde model in a luxurious black-and-orange gothic costume turns toward the camera. A dramatic flash of light reveals the entire collection.
+**3–6s | COSTUME FANTASY**
+Rapid, seamless transformations: the model becomes a glamorous witch with a sculptural black hat, a gothic vampire in a velvet cape, and a mysterious masked queen wearing an elaborate jeweled headpiece. Each look is extravagant, fashionable, and visually distinct.
+
+```
+...
+
+**[View full prompt →](./cases/halloween-couture-collection-cinematic-campaign.md)**
+
+#### 🏷️ Details
+
+- **Model:** Seedance 2.5
+- **Media Type:** Video
+- **Fashion Use Case:** Seasonal Halloween collection commercial with multi-look costume and couture styling, transformation beats, and editorial flat-lay end frame
+- **Content Category:** Cinematic Campaign
+- **Product Category:** Mixed Fashion
+- **Creator:** Ima Studio (@ImaStudio_ai)
+- **Source:** [View original source](https://x.com/ImaStudio_ai/status/2113111408078643327)
+
+---
+
+### No. 7: Lime Green Clog Product Commercial
 
 #### ▶️ Video Preview
 
@@ -228,7 +352,7 @@ Scene 3: Dramatic aerial cinematic shot of the model sitting on the edge of a ve
 
 ---
 
-### No. 5: NYC Crosswalk Multi-Look Fashion Film
+### No. 8: NYC Crosswalk Multi-Look Fashion Film
 
 #### ▶️ Video Preview
 
@@ -275,7 +399,7 @@ Look 7: all black again, woman leather jack
 
 ---
 
-### No. 6: Orange-White Running Sneaker Cinematic Commercial
+### No. 9: Orange-White Running Sneaker Cinematic Commercial
 
 #### ▶️ Video Preview
 
@@ -318,7 +442,7 @@ Dynamic tracking shot of the same man running energetically through the city str
 
 ---
 
-### No. 7: Orthopedic Slides Footwear Product Commercial
+### No. 10: Orthopedic Slides Footwear Product Commercial
 
 #### ▶️ Video Preview
 
@@ -363,7 +487,7 @@ Scene 3 (6–8s): Extreme close-up of the textured olive-green strap and black c
 
 ---
 
-### No. 8: Overhead Autumn Outfit Transition Film
+### No. 11: Overhead Autumn Outfit Transition Film
 
 #### ▶️ Video Preview
 
@@ -416,7 +540,88 @@ Preserve Yuna’s exact:
 
 ---
 
-### No. 9: Paris Luxury Outfit Cinematic Campaign
+### No. 12: Overhead Cinematic Multi-Outfit Transition
+
+#### ▶️ Video Preview
+
+<div align="center">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108060140574560256/img/tQOHztLi8LK-Vwy9.jpg" width="460" alt="Overhead Cinematic Multi-Outfit Transition">
+</div>
+
+**[Watch original video →](https://x.com/Zoyavelle/status/2108060187840180394)**
+
+#### 📝 About This Case
+
+A curated AI fashion prompt for Mixed Fashion · Seamless multi-outfit transformation video with specified garment changes and fabric realism · Video.
+
+#### 💬 Prompt Preview
+
+```
+A cinematic top-down overhead shot of a young Asian woman lying barefoot on an elegant vintage Persian rug in a warm, cozy living room, viewed through the wooden blades of a slowly rotating ceiling fan in the foreground. She has natural black hair and a calm relaxed expression. The scene uses warm golden indoor lighting, realistic wooden flooring, detailed traditional carpet patterns, soft shadows, and a cozy aesthetic interior. The woman appears in a simple black dress at first, then smoothly transitions through several different fashionable outfits while maintaining the exact same pose, position, camera angle, environment, and facial identity. Outfit transitions include a soft pink cardigan with a white dress, a red cardigan over a white top, and finally a brown textured dress. Highly photorealistic, natural skin texture, realistic fabric details, cinematic lighting, shallow depth of field, subtle motion blur from the rotating ceiling fan, smooth seamless outfit transformation, profe
+```
+...
+
+**[View full prompt →](./cases/overhead-cinematic-multi-outfit-transition.md)**
+
+#### 🏷️ Details
+
+- **Model:** Seedance 2.5
+- **Media Type:** Video
+- **Fashion Use Case:** Seamless multi-outfit transformation video with specified garment changes and fabric realism
+- **Content Category:** Outfit Transition
+- **Product Category:** Mixed Fashion
+- **Creator:** Zoya (@Zoyavelle)
+- **Source:** [View original source](https://x.com/Zoyavelle/status/2108060187840180394)
+
+---
+
+### No. 13: Overhead Fan Multi-Look Transition Film
+
+#### ▶️ Video Preview
+
+<div align="center">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108405691581140992/img/fCWPkdDuiMsH24ZJ.jpg" width="460" alt="Overhead Fan Multi-Look Transition Film">
+</div>
+
+**[Watch original video →](https://x.com/ImaStudio_ai/status/2108406299390325148)**
+
+#### 📝 About This Case
+
+A curated AI fashion prompt for Mixed Fashion · Beat-synced multi-outfit transformation with fan-blade wipe transitions in a cinematic fashion film · Video.
+
+#### 💬 Prompt Preview
+
+```
+Create a 15s, 9:16, 24fps ultra-realistic live-action fashion transformation video.
+One adult Western woman only. Keep the exact same face, long brown wavy hair, skin tone, body proportions, makeup, age, and identity throughout.
+SETTING: warm vintage living room with dark wooden floor, Persian rug, olive-green sofa, books, plants, and warm golden lighting.
+CAMERA: fixed top-down overhead camera. No cuts, zoom, rotation, or camera movement. A wooden ceiling fan slowly rotates in the foreground.
+Every time a fan blade sweeps across the woman, use it as a natural wipe transition into the next outfit.
+0–3s: fitted black mini dress, brushes hair.
+3–6s: white slip dress + soft pink cardigan, hand near ear, knee slightly bent.
+6–9s: burgundy cardigan + white top + plaid mini skirt, hand at waist.
+9–12s: champagne satin slip dress, hand moves to neck, one leg extends.
+12–15s: dark brown fitted knit mini dress, legs crossed, subtle confident smile.
+Keep movement subtle, elegant and realistic.
+M
+```
+...
+
+**[View full prompt →](./cases/overhead-fan-multi-look-transition-film.md)**
+
+#### 🏷️ Details
+
+- **Model:** Seedance 2.5
+- **Media Type:** Video
+- **Fashion Use Case:** Beat-synced multi-outfit transformation with fan-blade wipe transitions in a cinematic fashion film
+- **Content Category:** Outfit Transition
+- **Product Category:** Mixed Fashion
+- **Creator:** Ima Studio (@ImaStudio_ai)
+- **Source:** [View original source](https://x.com/ImaStudio_ai/status/2108406299390325148)
+
+---
+
+### No. 14: Paris Luxury Outfit Cinematic Campaign
 
 #### ▶️ Video Preview
 
@@ -468,7 +673,7 @@ Prompt -
 
 ---
 
-### No. 10: Pink Prada Handbag Tokyo Campaign Film
+### No. 15: Pink Prada Handbag Tokyo Campaign Film
 
 #### ▶️ Video Preview
 
@@ -511,7 +716,7 @@ Use ONE consistent young female model throughout. Keep the same face, hairstyle,
 
 ---
 
-### No. 11: Retro Running Sneaker Ad Storyboard
+### No. 16: Retro Running Sneaker Ad Storyboard
 
 #### ▶️ Video Preview
 
@@ -559,7 +764,7 @@ Cinematic low-angle full-body shot of the male model walking confidently through
 
 ---
 
-### No. 12: Silver Dress Multi-Outfit 3D Commercial
+### No. 17: Silver Dress Multi-Outfit 3D Commercial
 
 #### ▶️ Video Preview
 
@@ -605,6 +810,58 @@ Suddenly, the entire store begins
 - **Creator:** Smiling Khan (@AIwithkhan)
 - **Source:** [View original source](https://x.com/AIwithkhan/status/2108402513997377814)
 
+---
+
+### No. 18: Streetwear Multi-Look Editorial Campaign Video
+
+#### ▶️ Video Preview
+
+<div align="center">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2105517531817721856/img/_ur3iPj9LHGLWTdd.jpg" width="460" alt="Streetwear Multi-Look Editorial Campaign Video">
+</div>
+
+**[Watch original video →](https://x.com/itxabdullaa/status/2105517564277436767)**
+
+#### 📝 About This Case
+
+A curated AI fashion prompt for Mixed Fashion · Luxury streetwear campaign film with rapid sequential look changes and editorial commercial presentation · Video.
+
+#### 💬 Prompt Preview
+
+```
+LUXE MOTION — STREETWEAR EDITORIAL MV 
+
+Made with Seedance 2.5 on @PixVerse 
+#PixVerseCPP
+
+Prompt:
+
+DURATION: 15s | FORMAT: 16:9
+
+Create a 15-second luxury streetwear fashion film combining rapid outfit changes, premium editorial layouts, and beat-synced graphic transitions.
+
+Core Structure:
+Wide Hero Shot → Graphic Reveal → Beauty Close-Up → Dynamic Fashion Angles → Final Signature Frame
+
+Character Lock:
+- Same female model throughout entire video
+- Maintain identical face, skin tone, body proportions, hairstyle identity, and appearance
+- Keep character near center frame at all times
+```
+...
+
+**[View full prompt →](./cases/streetwear-multi-look-editorial-campaign-video.md)**
+
+#### 🏷️ Details
+
+- **Model:** Seedance 2.5
+- **Media Type:** Video
+- **Fashion Use Case:** Luxury streetwear campaign film with rapid sequential look changes and editorial commercial presentation
+- **Content Category:** Outfit Transition
+- **Product Category:** Mixed Fashion
+- **Creator:** ÀBDŪLLÂH (@itxabdullaa)
+- **Source:** [View original source](https://x.com/itxabdullaa/status/2105517564277436767)
+
 ## 🧩 Browse Fashion Prompts by Category
 
 Explore Seedance 2.5 fashion video prompts for campaign films, product commercials, footwear and handbag advertising, lookbook motion, model movement, and e-commerce video creatives.
@@ -621,9 +878,12 @@ Discover a fashion prompt → review the result → open the complete prompt →
 
 - [GPT Image 2 Fashion Prompts](https://github.com/KoozeeAI/awesome-gpt-image-2-fashion-prompts)
 - [GPT Image 2.5 Fashion Prompts](https://github.com/KoozeeAI/awesome-gpt-image-2-5-fashion-prompts)
+- [Kling 4.0 Fashion Prompts](https://github.com/KoozeeAI/awesome-kling-4-fashion-prompts)
 
 ## 📚 Source & Attribution
 
 These prompts are curated from public sources. Original creator attribution and source links are retained wherever available.
+
+Full Original Prompts are preserved in each Case file; preview text is only a length-limited exact prefix.
 
 This model-specific repository is maintained by KOOZEE and synchronized from our internal prompt library.

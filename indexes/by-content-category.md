@@ -16,14 +16,20 @@ Explore prompts by their primary fashion output type.
 
 - [Silver Dress Multi-Outfit 3D Commercial](../cases/silver-dress-multi-outfit-3d-commercial.md)
 
-### Outfit Transition (4)
+### Outfit Transition (7)
 
 - [Couture Ball Gown Palace Runway Video](../cases/couture-ball-gown-palace-runway-video.md)
 - [Everyday to Couture One-Shot Commercial](../cases/everyday-to-couture-one-shot-commercial.md)
 - [NYC Crosswalk Multi-Look Fashion Film](../cases/nyc-crosswalk-multi-look-fashion-film.md)
 - [Overhead Autumn Outfit Transition Film](../cases/overhead-autumn-outfit-transition-film.md)
+- [Overhead Cinematic Multi-Outfit Transition](../cases/overhead-cinematic-multi-outfit-transition.md)
+- [Overhead Fan Multi-Look Transition Film](../cases/overhead-fan-multi-look-transition-film.md)
+- [Streetwear Multi-Look Editorial Campaign Video](../cases/streetwear-multi-look-editorial-campaign-video.md)
 
-### Cinematic Campaign (2)
+### Cinematic Campaign (5)
 
+- [Black Gown Wind Motion Editorial](../cases/black-gown-wind-motion-editorial.md)
+- [Champagne Silk Dress Cinematic Campaign](../cases/champagne-silk-dress-cinematic-campaign.md)
+- [Halloween Couture Collection Cinematic Campaign](../cases/halloween-couture-collection-cinematic-campaign.md)
 - [Paris Luxury Outfit Cinematic Campaign](../cases/paris-luxury-outfit-cinematic-campaign.md)
 - [Pink Prada Handbag Tokyo Campaign Film](../cases/pink-prada-handbag-tokyo-campaign-film.md)
